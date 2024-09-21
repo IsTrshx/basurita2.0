@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "punycode": "^2.3.1",
+    "sqlite3": "^5.1.7",
+    "telegraf": "^4.16.3",
+    "whatwg-url": "^14.0.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
